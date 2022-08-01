@@ -1,10 +1,10 @@
 # Password Randomizer
 
 ## Purpose
-Client requests if I can generate a random password generator to provide better security 
-for their sensitive stored data. 
+Client requests if I can generate a random password generator to establish a higher security for
+their sensitive data.
 
-When the password generating button is clicked, the client hopes to greeted with the criteria:
+When the password generating button is clicked, the client wants to greeted with the criteria:
 
 * A series of prompts that directs them through steps to generate a password; their
 input should be validated and at least one character type should be selected
