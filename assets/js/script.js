@@ -11,6 +11,8 @@ for (var i=0; i < length; i++);*/
 //}
 
 
+
+
 //interact with answers
 // a: have the anser options respond 
 //b: find a way to generate random numbers and hold the info 
@@ -50,6 +52,7 @@ function generatePassword() {
     
     if (promptLimit > 7 && promptLimit < 129){
       console.log(promptLimit);
+      
 
     } else if (promptLimit < 7 || promptLimit > 128){
       window.alert("Please type a valid option.")
@@ -63,7 +66,7 @@ function generatePassword() {
       console.log("Numeric Character was selected.");
 
     }  else if (promptNum === "No" || promptNum === "no") {
-      var promptNum
+
       console.log("Numeric Character was deselected.")
     } else {
       window.alert("Please type an option.");
