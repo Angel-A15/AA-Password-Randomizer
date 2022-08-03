@@ -27,12 +27,12 @@ by a series of window prompts
 *The password generated will be displayed for the user to view, copy, and able to generate a new 
 one.
 
-##Preview of Page
+## Preview of Page
 
 
 
 
 
-##Link to the Page
+## Link to the Page
 
 
