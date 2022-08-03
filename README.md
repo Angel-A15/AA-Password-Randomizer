@@ -19,11 +19,13 @@ input should be validated and at least one character type should be selected
 The client will now have a stronger password to secure their information with the updates I added 
 such as:
 
-*
+*Giving the option to add/remove specific characters for the password
+by a series of window prompts
 
-*
+*Decide on the limit of characters the user wants generated; from a min of 8 and max of 128 characters
 
-*
+*The password generated will be displayed for the user to view, copy, and able to generate a new 
+one.
 
 ##Preview of Page
 
