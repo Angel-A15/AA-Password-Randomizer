@@ -52,7 +52,6 @@ function generatePassword() {
     
     if (promptLimit > 7 && promptLimit < 129){
       console.log(promptLimit);
-      
 
     } else if (promptLimit < 7 || promptLimit > 128){
       window.alert("Please type a valid option.")
@@ -62,8 +61,10 @@ function generatePassword() {
     //Numeric characters Option
   var promptNum = window.prompt('Do you want to add numeric characters?');
     if (promptNum === "Yes" || promptNum === "yes") {
-      
       console.log("Numeric Character was selected.");
+      //could be wrong:for(var i = 0; i < numChar.length; i++) {
+        //console.log(numChar[i]);
+      }
 
     }  else if (promptNum === "No" || promptNum === "no") {
 
