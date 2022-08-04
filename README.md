@@ -28,7 +28,7 @@ by a series of window prompts
 one.
 
 ## Preview of Page
-
+![Web capture_3-8-2022_23568_angel-a15 github io](https://user-images.githubusercontent.com/106582411/182766667-cbc9afde-4adf-4948-817c-e77ec2a2bccb.jpeg)
 
 
 
