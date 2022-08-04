@@ -33,7 +33,8 @@ one.
 
 
 
+
 ## Link to the Page
-https://angel-a15.github.io/Password-Randomizer-Master/[https://angel-a15.github.io/Password-Randomizer-Master/]
+https://angel-a15.github.io/Password-Randomizer-Master/]
 
 
